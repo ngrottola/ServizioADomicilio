@@ -1,1 +1,0 @@
-Per eseguire il programma direttamente in command line basta effettuare un doppio click su "main.bat"
